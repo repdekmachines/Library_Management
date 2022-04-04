@@ -1,5 +1,6 @@
 # Copyright (c) 2022, michael.hutchons@gmail.com and contributors
 # For license information, please see license.txt
+# This is pretty awesome!
 
 #import frappe
 from frappe.model.document import Document
